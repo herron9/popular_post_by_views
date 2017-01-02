@@ -1,0 +1,18 @@
+=== IFAS-popular posts by views ===
+Tags: popular, view
+Requires at least: 4.6.1
+Tested up to: 4.7
+License: none
+
+This plugin counts views of each post and shows 3 most popular posts (most viewed) on side bar.
+
+== Installation ==
+1. Upload the plugin files to the `/wp-content/plugins/plugin-name` directory, or install the plugin through the WordPress plugins screen directly.
+2. Activate the plugin through the \'Plugins\' screen in WordPress.
+3. Go to Appearance->Widgets panel, there is a new widget named  IFAS Popular Post, add this widget to your blog page.
+
+
+== Frequently Asked Questions ==
+= Get \"HEADERS ALREADY SENT\" error message =
+
+This message randomly appears and it seems to be a part of a theme issue. 
